@@ -11,7 +11,6 @@ int main(){
   SSD1306_setup();
     SSD1306_clear();
     SSD1306_update();
-    grid_status(OFF);//by default the grid is OFF
 
 /*   Draws every char
   for(short i=0;i<25;i++){
@@ -29,7 +28,3 @@ int main(){
   print_String("Hello World",5,3);
   SSD1306_update();
 
-  while(1){
-    
-  }
-}
