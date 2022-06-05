@@ -1,5 +1,5 @@
                 /*SSD1306 128x32 OLED Display library, via I2C communication
-                            Written by r0tary, student at SDU 
+                            Written by r0tary (G.R), student at SDU 
         
         Version 1. released 25.05.2022.
              Feutures include:
